@@ -8,7 +8,7 @@ from astroML.density_estimation import EmpiricalDistribution
 
 
 
-#Read in the data
+#Read in the data here 
 #data=pf.open('GTR-ADM-QSO-ir-testhighz_kdephotoz_lup_s82_quasar_candidates.fits')[1].data
 data=pf.open('SpIES_SDSS_Specz20150619_Photz20160612_fixtphotz.fits')[1].data
 #data=pf.open('TEST_cut_dat.fits')[1].data
